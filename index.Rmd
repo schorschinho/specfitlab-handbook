@@ -5,14 +5,12 @@ date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 output: bookdown::gitbook
 documentclass: krantz
-bibliography: [book.bib, packages.bib]
-biblio-style: apalike
 link-citations: yes
 colorlinks: yes
 lot: yes
 lof: yes
 fontsize: 12pt
-github-repo: rstudio/bookdown-demo
+github-repo: schorschinho/specfitlab-handbook
 description: "This is the lab handbook of the specfitlab."
 ---
 

@@ -4,9 +4,13 @@ This is a collection of issues that I have found worthy of documenting explicitl
 
 ## Expectations
 
+- Adhere to [Code of conduct] at all times.
+- Set goals for [Commitment and scholarly output] and [Manuscript writing].
+- Communicate regularly with me about your [Career development].
+- Keep rigorous notes of all your work for proper [Documentation].
 - Attend [Practice presentations].
 - Attend [Journal Club]. 
-- Attend [Conferences & Events]: ISMRM, EDITINGSCHOOL, GABA Symposium, and other conferences/symposiums that are at the core of our community.
+- Attend [Conferences & Events].
 
 ### Commitment and scholarly output
 
@@ -21,7 +25,7 @@ If you take the lead (i.e. first authorship) on a project, it is expected that y
 In keeping with our dedication to the principles of open science, you are expected to share your work with your colleagues. That includes (well-documented and annotated) code, Illustrator figures, slide decks, notes, manuals, instructions etc. For frequently used resources, we keep a shared document folder - if you have created something useful, please place it in there for posterity.
 
 ## Meetings
-![30 Virtual Meeting Memes That Every Office Employee Can Relate To - Lifesize](https://www.lifesize.com/wp-content/uploads/2020/10/Meme-header-2.jpeg)
+![meetings](img/meetings.jpeg)
 When are you expected to be in the same room as your lab colleagues?
 
 ### Regular group meetings
@@ -100,13 +104,14 @@ Our funding will pay for all your event-related expenses for the essential event
 
 Because of the way that the university financial system works, common practice is for you to pay the expenses upfront, and then submit requests for reimbursement. Please contact me if you feel concerned about not being able to make payments ahead of time, and we will find a solution together.
 
-Please see the [[Money#Conferences workshops courses]] section for more detailed policies about coverage of cost for work-related travel.
+Please see the [Conferences, workshops, courses] section for more detailed policies about coverage of cost for work-related travel.
 
 ## Career development
 
 My first and foremost job is to help you pursue the professional and personal career that you see yourself in. We try and shape the work that you do in such a way that it benefits the next career step you envision. While research outputs (i.e. papers, presentations, and shared resources) are the coin of the realm, we have sufficient flexibility to weigh the different aspects of generating them in your daily work, depending on whether you would like to work in industry, continue in academia, or are looking for something hybrid, like a clinician scientist for one of the MR manufacturers.
 
 ### Individual Development Plan (IDP)
+
 One efficient tool to discuss your short and long term goals is the annual IDP ([you can find a template here](https://www.hopkinsmedicine.org/som/offices/pda/training-resources/idp_template.html)). Together, you and I will identify the next projects you work on, the skills you will learn in that process, and development resources that can help you grow (like coursework, mentoring, etc.).
 
 The IDP is also important to create accountability. Explicitly writing out expectations clarifies them for both the mentor and the mentee, and reduces the potential for friction and conflict.
@@ -125,7 +130,7 @@ You are expected to keep a lab book to document your scanner experiments and the
 
 ## Grants (and work during grant cycles)
 
-One of my main jobs is to keep the machine running that pays our salaries. In academia, that means applying for (and hopefully, ultimately rewarded with) 'grants', i.e. time-limited tranches of external funding (see also [[Money]]).
+One of my main jobs is to keep the machine running that pays our salaries. In academia, that means applying for (and hopefully, ultimately rewarded with) 'grants', i.e. time-limited tranches of external funding (see also [Money]).
 
 Funding for our work comes largely from the National Institutes of Health (NIH). [There are different fixed due dates for submitting grant applications, and they depend on the grant mechanism one wants to apply for.](https://grants.nih.gov/grants/how-to-apply-application-guide/due-dates-and-submission-policies/due-dates.htm) However, all of them typically offer three submission dates per year, dividing the year into three natural cycle periods of four months.
 
@@ -149,7 +154,7 @@ Most of [our own software development](https://github.com/schorschinho/osprey) i
 
 ## Money
 
-![I Am Once Again Asking for Your Financial Support | Know Your Meme](https://i.kym-cdn.com/entries/icons/original/000/032/559/cover1.jpg)
+![money](img/money.jpg)
 How do we pay for all this?
 
 ### Salary & health insurance
