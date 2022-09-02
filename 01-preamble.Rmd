@@ -1,0 +1,9 @@
+# Preamble {-}
+
+- Our lab is a safe, friendly, and accepting environment for everybody. There is a zero-tolerance policy for harassment, discrimination and violence. [Code of conduct]
+
+- We are committed to rigorous, reproducible and intellectually honest research.
+
+- We make our research output publicly available beyond the papers we write - that includes sharing code, making data available, and providing support to our science community.
+
+- We are committed to helping each other learn and grow in the best way possible.
