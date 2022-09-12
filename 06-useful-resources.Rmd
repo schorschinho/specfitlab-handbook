@@ -16,7 +16,7 @@ Johns Hopkins offers campus MATLAB licenses that you can access by [creating a M
 
 ### Image editing software
 
-We frequently use Adobe Illustrator (and, to a much lesser degree, Photoshop) to apply final polishing to our figures, and to make traditional posters. Both are available as part of the Adobe Creative Cloud package. You will be [[Money#Technical equipment and software licenses | fully reimbursed for the annual license fee]].
+We frequently use Adobe Illustrator (and, to a much lesser degree, Photoshop) to apply final polishing to our figures, and to make traditional posters. Both are available as part of the Adobe Creative Cloud package. You will be [fully reimbursed for the annual license fee][Technical equipment and software licenses].
 
 If you prefer, you can, of course, also use free alternatives such as Inkscape and GIMP.
 

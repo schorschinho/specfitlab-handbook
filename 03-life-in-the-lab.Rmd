@@ -79,7 +79,7 @@ You are expected to attend Journal Club regularly, but scheduled data acquisitio
 ## Conferences & Events
 
 Conferences, meetings, courses, symposiums and workshops are important ways to 
-- present yourk work to the wider research community
+- present your work to the wider research community
 - meet peers inside and outside your field, forge new connections, and renew existing ones ("networking")
 - learn new skills and techniques
 - teach your skills to others.
@@ -96,7 +96,7 @@ Throughout the year, we will keep a keen eye on abstract deadlines for our essen
 
 If the abstract gets accepted, you can begin working on the material, regardless of whether it is a poster, a digital poster, or a talk.
 
-Each poster, digital poster, and talk will be [[Meetings#Practice presentations | diligently reviewed and practiced in the group]].
+Each poster, digital poster, and talk will be [diligently reviewed and practiced in the group][Practice presentations].
 
 ### Financial support and reimbursement
 
@@ -124,7 +124,7 @@ Data analysis (for each experiment!) should be performed as soon as possible aft
 
 ### Lab books
 
-While a lot of our work is happening on our own computers nowadays, you need to keep a lab book. This is a written record of every experiment that you conduct, i.e. the procedures and settings, the observations you make, and the relevant thoughts connecting interpretation and next experiment. It is *not* your little scribble notebook to generate ideas or take meetings notes in. The lab book is a legal document that remains in the institution after you move on. There are cases in which lab books have been used to investigate cases of scientific misconduct, but also to determine who and when made an important discovery first.
+While a lot of our work is happening on our own computers nowadays, you need to keep a lab book. This is a written record of every experiment that you conduct, i.e. the procedures and settings, the observations you make, and the relevant thoughts connecting interpretation and next experiment. It is *not* your little scribble notebook to generate ideas or take meetings notes in. The lab book is a legal document that remains in the institution after you move on. There are cases in which lab books have been used to investigate cases of scientific misconduct, but also to determine who made an important discovery first (and when).
 
 You are expected to keep a lab book to document your scanner experiments and the data analysis that you do on them. The NIH training center has a [great summary](https://www.training.nih.gov/assets/Lab_Notebook_508_(new).pdf) on what a lab book is (and isn’t) and how to keep a good one. You don’t have to buy it yourself - we have plenty of hardcover notebooks in stock.
 
