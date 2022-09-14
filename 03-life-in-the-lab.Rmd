@@ -144,6 +144,13 @@ For better or worse, the classic scientific paper remains the 'coin of the realm
 
 Writing a scientific paper is not easy, but it can be learned. When you create your first drafts, you will receive help finding a good structure and determining which results we want to show in which form. You will also receive a lot of detailed feedback on your writing. In the beginning of your training, we may quite literally sit down and edit your document together word-by-word, and a heavily annotated Word document with lots of edits in the margin is a love language and a sign that your mentor cares! (See also [Practice presentations]!)
 
+Here are a few really useful resources:
+
+- [Ten simple rules for structuring papers](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- [The Elements of Style](https://www.gutenberg.org/files/37134/37134-h/37134-h.htm)
+- [Write Well - The Writing Handbook](https://www.julian.com/guide/write/intro)
+- [21 Tactics to Help You Become a Better Writer](https://www.nateliason.com/blog/better-writer)
+
 ## Coding
 
 Another essential skill in our profession is writing useful and flexible program code. There are more programming classes and courses than fish in the sea, but ultimately there is only one way to become a decent-enough programmer to get most of the job done: by choosing a project and diving head-first into it. 
